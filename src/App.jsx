@@ -1306,7 +1306,7 @@ const PROJECTS=[
 
 const ACHIEVEMENTS=[
   {rank:"100+",title:"LeetCode Problems Solved",desc:"Across Easy, Medium & Hard — consistent practice since Jan 2025.",date:"Since Jan' 25",badge:"💡"},
-  {rank:"1,657",title:"LeetCode Contest Rating",desc:"Top 21% globally — consistent competitive programming performance.",date:"Feb' 26",badge:"🏆"},
+  {rank: "1st",title: "Inter Platoon Volleyball Competition",desc: "Secured Gold Medal by outperforming four platoons, showcasing strong teamwork, coordination, and competitive excellence.",date: "Nov' 25",badge: "🏐"},
   {rank:"6th",title:"Code-A-Haunt Hackathon",desc:"Ranked 6th out of 100 participants in a competitive hackathon.",date:"Nov' 24",badge:"🥇"},
   {rank: "Top 16",title: "NCC Inter Group Competition",desc: "Represented the Jalandhar Group after selection among 16 cadets, demonstrating discipline, teamwork, and leadership.",date: "Jul' 24",badge: "🎖️"},
 ];
