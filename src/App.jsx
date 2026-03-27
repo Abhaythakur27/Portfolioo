@@ -1305,10 +1305,10 @@ const PROJECTS=[
 ];
 
 const ACHIEVEMENTS=[
-  {rank:"150+",title:"LeetCode Problems Solved",desc:"Across Easy, Medium & Hard — consistent practice since Jan 2025.",date:"Since Jan' 25",badge:"💡"},
+  {rank:"100+",title:"LeetCode Problems Solved",desc:"Across Easy, Medium & Hard — consistent practice since Jan 2025.",date:"Since Jan' 25",badge:"💡"},
   {rank:"1,657",title:"LeetCode Contest Rating",desc:"Top 21% globally — consistent competitive programming performance.",date:"Feb' 26",badge:"🏆"},
   {rank:"6th",title:"Code-A-Haunt Hackathon",desc:"Ranked 6th out of 100 participants in a competitive hackathon.",date:"Nov' 24",badge:"🥇"},
-  {rank:"6.22",title:"CGPA at LPU",desc:"B.Tech CSE at Lovely Professional University, Phagwara, Punjab.",date:"Since Aug' 23",badge:"🎓"},
+  {rank: "Top 16",title: "NCC Inter Group Competition",desc: "Represented the Jalandhar Group after selection among 16 cadets, demonstrating discipline, teamwork, and leadership.",date: "Jul' 24",badge: "🎖️"},
 ];
 
 const CERTS=[
@@ -1648,13 +1648,13 @@ export default function App() {
                 <a href="Cv.pdf" download className="btn-download"><DownloadIcon/>&nbsp;Cv.pdf</a>
               </div>
               <div className="hero-meta reveal reveal-delay-5" style={{marginTop:36}}>
-                <div className="hero-meta-item"><div className="hero-meta-val">200+</div><div className="hero-meta-label">LC_SOLVED</div></div>
+                <div className="hero-meta-item"><div className="hero-meta-val">100+</div><div className="hero-meta-label">LC_SOLVED</div></div>
                 <div className="hero-meta-sep"/>
                 <div className="hero-meta-item"><div className="hero-meta-val">1,657</div><div className="hero-meta-label">RATING</div></div>
                 <div className="hero-meta-sep"/>
                 <div className="hero-meta-item"><div className="hero-meta-val">4+</div><div className="hero-meta-label">PROJECTS</div></div>
                 <div className="hero-meta-sep"/>
-                <div className="hero-meta-item"><div className="hero-meta-val">5</div><div className="hero-meta-label">CERTS</div></div>
+                <div className="hero-meta-item"><div className="hero-meta-val">15+</div><div className="hero-meta-label">CERTS</div></div>
               </div>
             </div>
 
@@ -1703,7 +1703,7 @@ export default function App() {
                   <div><span className="ln">3</span><span className="kw">&nbsp;&nbsp;public:</span></div>
                   <div><span className="ln">4</span><span className="ob">&nbsp;&nbsp;&nbsp;&nbsp;string </span><span className="fn">name</span><span className="ob"> = </span><span className="str">"Abhay Thakur"</span><span className="ob">;</span></div>
                   <div><span className="ln">5</span><span className="ob">&nbsp;&nbsp;&nbsp;&nbsp;string </span><span className="fn">uni</span><span className="ob"> = </span><span className="str">"LPU, Punjab"</span><span className="ob">;</span></div>
-                  <div><span className="ln">6</span><span className="ob">&nbsp;&nbsp;&nbsp;&nbsp;float </span><span className="fn">cgpa</span><span className="ob"> = </span><span className="num">7.62</span><span className="ob">;</span></div>
+                  <div><span className="ln">6</span><span className="ob">&nbsp;&nbsp;&nbsp;&nbsp;float </span><span className="fn">cgpa</span><span className="ob"> = </span><span className="num">6.22</span><span className="ob">;</span></div>
                   <div><span className="ln">7</span><span className="ob">&nbsp;&nbsp;&nbsp;&nbsp;int </span><span className="fn">lc_rating</span><span className="ob"> = </span><span className="num">1657</span><span className="ob">;</span></div>
                   <div><span className="ln">8</span><span className="ob">&nbsp;&nbsp;&nbsp;&nbsp;bool </span><span className="fn">open_to_work</span><span className="ob"> = </span><span className="num">true</span><span className="ob">;</span></div>
                   <div><span className="ln">9</span></div>
